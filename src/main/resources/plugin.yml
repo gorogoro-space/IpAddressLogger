@@ -1,0 +1,6 @@
+name: IpAddressLogger
+version: 1.1
+api-version: 1.15
+description: Security tool.
+author: kubotan
+main: space.gorogoro.ipaddresslogger.IpAddressLogger
